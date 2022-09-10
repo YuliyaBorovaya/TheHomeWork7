@@ -1,0 +1,15 @@
+D:\Обучение Питон\Язык программирования C#\Лекция 7\Homework7\Task50\bin\Debug\net6.0\Task50.exe
+D:\Обучение Питон\Язык программирования C#\Лекция 7\Homework7\Task50\bin\Debug\net6.0\Task50.deps.json
+D:\Обучение Питон\Язык программирования C#\Лекция 7\Homework7\Task50\bin\Debug\net6.0\Task50.runtimeconfig.json
+D:\Обучение Питон\Язык программирования C#\Лекция 7\Homework7\Task50\bin\Debug\net6.0\Task50.dll
+D:\Обучение Питон\Язык программирования C#\Лекция 7\Homework7\Task50\bin\Debug\net6.0\Task50.pdb
+D:\Обучение Питон\Язык программирования C#\Лекция 7\Homework7\Task50\obj\Debug\net6.0\Task50.csproj.AssemblyReference.cache
+D:\Обучение Питон\Язык программирования C#\Лекция 7\Homework7\Task50\obj\Debug\net6.0\Task50.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение Питон\Язык программирования C#\Лекция 7\Homework7\Task50\obj\Debug\net6.0\Task50.AssemblyInfoInputs.cache
+D:\Обучение Питон\Язык программирования C#\Лекция 7\Homework7\Task50\obj\Debug\net6.0\Task50.AssemblyInfo.cs
+D:\Обучение Питон\Язык программирования C#\Лекция 7\Homework7\Task50\obj\Debug\net6.0\Task50.csproj.CoreCompileInputs.cache
+D:\Обучение Питон\Язык программирования C#\Лекция 7\Homework7\Task50\obj\Debug\net6.0\Task50.dll
+D:\Обучение Питон\Язык программирования C#\Лекция 7\Homework7\Task50\obj\Debug\net6.0\refint\Task50.dll
+D:\Обучение Питон\Язык программирования C#\Лекция 7\Homework7\Task50\obj\Debug\net6.0\Task50.pdb
+D:\Обучение Питон\Язык программирования C#\Лекция 7\Homework7\Task50\obj\Debug\net6.0\Task50.genruntimeconfig.cache
+D:\Обучение Питон\Язык программирования C#\Лекция 7\Homework7\Task50\obj\Debug\net6.0\ref\Task50.dll
